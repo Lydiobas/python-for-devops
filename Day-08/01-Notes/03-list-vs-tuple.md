@@ -56,3 +56,7 @@ for item in my_tuple:
 
 **Tuple:** Tuples consume less memory because they are immutable, and the interpreter can optimize memory usage.
 
+
+
+#list = ec2 instances s3 buckets etc 
+#turple = admins etc 
